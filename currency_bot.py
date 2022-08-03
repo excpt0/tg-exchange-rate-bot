@@ -65,4 +65,4 @@ class AppBot():
 
 
 if __name__ == '__main__':
-    AppBot('SOME_TOKEN).serve()
+    AppBot('SOME_TOKEN').serve()
