@@ -1,5 +1,3 @@
-from os import environ
-
 import requests
 from cachetools.func import ttl_cache
 from telegram import Update, KeyboardButton, ReplyKeyboardMarkup
